@@ -4,6 +4,9 @@
   <introduction>
     <p>Here's a little information about me.</p>
   </introduction>
-  <p>Add more lines like this to fill out the bio. Each <c>&lt;p&gt;</c>
-  tag surrounds a paragraph.</p>
+  <p>WINTER CLASS REFLECTIONS</p>
+  <P>c490 - bash script class has been an amazing and worth the time to learn about it.</P>
+  <P>Bash scripting is a very important tool set in software development and deployment. It helps with automating tasks and other critical areas of the software life cycle.</p>
+  <p>Not did we learn about bash script, the we also learnt about efficient use of vs code, git and github which are all important aspects of software management.</p>
+  
 </section>
